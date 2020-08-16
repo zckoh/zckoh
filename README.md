@@ -9,8 +9,12 @@
 - 🥅 2020 Goals: Learn more about web development and Big Data technologies
 - ⚡ Fun fact: I love to travel for good food and play the piano
 
+---
+
 ### Currently listening to 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/playlist/6u3aRHUv0PxnUfcE2yEhfT)
+
+---
 
 <img align="left" alt="Zac Koh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zckoh&show_icons=true&hide_border=true"/>
 
