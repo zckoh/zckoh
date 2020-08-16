@@ -18,6 +18,10 @@
 
 <img align="left" alt="Zac Koh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zckoh&show_icons=true&hide_border=true"/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zckoh&hide_border=true)](https://github.com/zckoh)
+
+---
+
 ### Connect with me:
 
 [<img align="left" alt="zckoh.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
