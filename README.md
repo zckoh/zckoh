@@ -12,7 +12,7 @@
 ---
 
 ### Currently listening to 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/playlist/6u3aRHUv0PxnUfcE2yEhfT)
+<img src="https://spotify-readme.zckoh.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />
 
 ---
 
