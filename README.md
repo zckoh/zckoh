@@ -16,9 +16,9 @@
 
 ---
 
-[<img align="left" alt="Zac Koh's GitHub Stats" src="https://github-readme-stats.zckoh.vercel.app/api?username=zckoh&count_private=true&show_icons=true&hide_border=true"/>](https://github.com/zckoh)
+[<img align="left" alt="Zac Koh's GitHub Stats" src="https://github-readme-stats.zckoh.vercel.app/api?username=zckoh&count_private=true&show_icons=true&hide_border=true&theme=dark"/>](https://github.com/zckoh)
 
-[![Top Langs](https://github-readme-stats.zckoh.vercel.app/api/top-langs/?username=zckoh&hide_border=true)](https://github.com/zckoh)
+[![Top Langs](https://github-readme-stats.zckoh.vercel.app/api/top-langs/?username=zckoh&hide_border=true&theme=dark)](https://github.com/zckoh)
 
 ---
 
