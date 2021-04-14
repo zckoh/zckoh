@@ -5,7 +5,7 @@
 
 ## I'm a software engineer currently based in London, UK
 
-- 🌱 I'm currently learning AWS services (ECS,Lambda,S3) and Serverless
+- 🌱 I'm currently learning AWS services (ECS, Lambda, S3) and Serverless
 - 🥅 2021 Goals: Learn TypeScript!
 - ⚡ Fun fact: I love to travel for good food 🍝 and play table tennis 🏓
 
