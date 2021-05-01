@@ -24,9 +24,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="zckoh.github.io" width="22px" src="https://www.iconsdb.com/icons/preview/royal-blue/globe-4-xxl.png" />][website]
-[<img align="left" alt="zackoh | LinkedIn" width="22px" src="https://www.iconsdb.com/icons/preview/royal-blue/linkedin-3-xxl.png" />][linkedin]
-[<img align="left" alt="zckoh96@gmail.com | Instagram" width="22px" src="https://www.iconsdb.com/icons/preview/royal-blue/email-xxl.png" />][email]
+[<img align="left" alt="zckoh.github.io" width="22px" src="https://www.iconsdb.com/icons/preview/caribbean-blue/globe-4-xxl.png" />][website]
+[<img align="left" alt="zackoh | LinkedIn" width="22px" src="https://www.iconsdb.com/icons/preview/caribbean-blue/linkedin-3-xxl.png" />][linkedin]
+[<img align="left" alt="zckoh96@gmail.com | Instagram" width="22px" src="https://www.iconsdb.com/icons/preview/caribbean-blue/email-xxl.png" />][email]
 
 <br />
 
