@@ -82,7 +82,7 @@
             "activityBar.border": "#011627",
             "activityBarBadge.background": "#44596b",
             "activityBarBadge.foreground": "#ffffff",
-            "sideBar.background": "#011627",
+            "sideBar.background": "#01111d",
             "sideBar.foreground": "#a9c5dd",
             "sideBar.border": "#011627",
             "sideBarTitle.foreground": "#5f7e97",
