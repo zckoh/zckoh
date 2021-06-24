@@ -5,7 +5,7 @@
 
 ## I'm a software engineer currently based in London, UK
 
-- 🌱 I'm currently learning system design techniques
+- 🌱 I'm currently learning Golang & system design techniques
 - 🥅 2021 Goals: Obtain AWS certification by end of the year ☁
 - ⚡ Fun fact: I love to travel for good food 🍝 and play table tennis 🏓
 
