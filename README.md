@@ -11,8 +11,8 @@
 
 ---
 
-### Currently listening to 🎧
-<img src="https://spotify-readme.zckoh.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />
+<!-- ### Currently listening to 🎧 -->
+<!-- <img src="https://spotify-readme.zckoh.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" /> -->
 
 ---
 
