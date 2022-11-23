@@ -49,6 +49,8 @@
 <img align="left" alt="MongoDB" width="26px" title="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Google" width="26px" title="GCP" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png" />
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b958ddb4-e46e-4ace-badd-e3d40ca762a8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <br />
 <br />
 
