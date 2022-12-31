@@ -27,17 +27,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="zckoh96@gmail.com | Instagram" width="22px" src="https://www.iconsdb.com/icons/preview/caribbean-blue/email-xxl.png" />][email] - zckoh96@gmail.com
+[<img align="left" alt="zckoh96@gmail.com | Instagram" width="22px" src="https://www.iconsdb.com/icons/preview/caribbean-blue/email-xxl.png" />][email] zckoh96@gmail.com
 
-<br />
+[<img align="left" alt="zackoh | LinkedIn" width="22px" src="https://www.iconsdb.com/icons/preview/caribbean-blue/linkedin-3-xxl.png" />][linkedin] https://linkedin.com/in/zackoh
 
-[<img align="left" alt="zackoh | LinkedIn" width="22px" src="https://www.iconsdb.com/icons/preview/caribbean-blue/linkedin-3-xxl.png" />][linkedin] - https://linkedin.com/in/zackoh
-
-<br />
-
-[<img align="left" alt="zckoh.github.io" width="22px" src="https://www.iconsdb.com/icons/preview/caribbean-blue/globe-4-xxl.png" />][website] - https://zckoh.github.io
-
-<br />
+[<img align="left" alt="zckoh.github.io" width="22px" src="https://www.iconsdb.com/icons/preview/caribbean-blue/globe-4-xxl.png" />][website] https://zckoh.github.io
 
 
 [website]: https://zckoh.github.io
