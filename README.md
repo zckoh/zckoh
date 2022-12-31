@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=zckoh.github.io&style=for-the-badge&url=https%3A%2F%2Fzckoh.github.io)][website]
 
-### Current technologies I'm working with 💻:
+### 💻 Current technologies I'm working with:
 
 - <img align="left" alt="React" width="26px" title="React" src="https://raw.githubusercontent.com/ExpediaGroup/styx/master/docs/assets/styx-logo.svg" /> [Styx](https://github.com/ExpediaGroup/styx)
 
