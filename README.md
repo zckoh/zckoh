@@ -10,6 +10,8 @@
 
 - <img align="left" alt="kotlin" width="26px" title="kotlin" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" /> Kotlin
 
+- <img align="left" alt="aws" width="26px" title="AWS" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" /> AWS
+
 - <img align="left" alt="java" width="26px" title="java" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" /> Java
 
 - <img align="left" alt="terraform" width="26px" title="terraform" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" /> Terraform
