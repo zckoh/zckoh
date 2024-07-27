@@ -33,7 +33,7 @@
 
 [<img align="left" alt="zackoh | LinkedIn" width="22px" src="https://www.iconsdb.com/icons/preview/caribbean-blue/linkedin-3-xxl.png" />][linkedin] https://linkedin.com/in/zackoh
 
-[<img align="left" alt="zckoh.github.io" width="22px" src="https://www.iconsdb.com/icons/preview/caribbean-blue/globe-4-xxl.png" />][website] https://zckoh.github.io
+[<img align="left" alt="zckoh.github.io" width="22px" src="https://www.iconsdb.com/icons/preview/caribbean-blue/globe-4-xxl.png" />][website] https://zackoh.vercel.app
 
 
 [website]: https://zackoh.vercel.app
