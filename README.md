@@ -36,6 +36,6 @@
 [<img align="left" alt="zckoh.github.io" width="22px" src="https://www.iconsdb.com/icons/preview/caribbean-blue/globe-4-xxl.png" />][website] https://zckoh.github.io
 
 
-[website]: https://zckoh.github.io
+[website]: https://zackoh.vercel.app
 [linkedin]: https://linkedin.com/in/zackoh
 [email]: mailto:zckoh96@gmail.com
