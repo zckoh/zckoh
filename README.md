@@ -1,6 +1,6 @@
 ## Hi there, I'm Zac. I'm a software engineer currently based in London, UK 👋
 
-[![Website](https://img.shields.io/website?label=zckoh.github.io&style=for-the-badge&url=https%3A%2F%2Fzckoh.github.io)][website]
+[![Website](https://img.shields.io/website?label=zackoh.vercel.app&style=for-the-badge&url=https%3A%2F%2Fzackoh.vercel.app][website]
 
 ### 💻 Current technologies I'm working with:
 
